@@ -2,13 +2,18 @@
 ### Tres
 <h1>Title</h1>
 
-Short, meaningful commit message that describes the change I made to the file.
+Short, meaningful commit message that describes<br> the change I made to the file.
+<hr>
+<br>
+<h2>Some lists</h2>
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
-
-
-
-
+<br>
+<hr>
 
 Some code
 ``` python
